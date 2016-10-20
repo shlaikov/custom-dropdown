@@ -2,26 +2,21 @@
 
 
 Готовая модель кастомного "select" списка на чистом AngularJS 1.
-Также скоро буду выкладывать свои остальные работы в репозитории для примеров. В дальнейшем хочется сделать генератор [Yeoman](http://yeoman.io/) для различных кастомных DOM-элементов на AngularJS.<br>
-Для сборки проекта использовал [Grunt](http://gruntjs.com/), [npm](https://www.npmjs.com/), [bower](https://bower.io/).<br>
-Делал на фрилансе для компании [GetLooky](http://getlooky.ru) в январе 2015 года.
+Также скоро буду выкладывать свои остальные работы в репозитории для примеров. В дальнейшем хочется сделать генератор [Yeoman](http://yeoman.io/) для различных кастомных DOM-элементов на AngularJS.<br><br>
+Для сборки проекта использовал [Grunt](http://gruntjs.com/), [npm](https://www.npmjs.com/), [bower](https://bower.io/). Делал на фрилансе для компании [GetLooky](http://getlooky.ru) в январе 2015 года.
 
 <p align="left">
     <img src="app/github-info.png" width="450px" title="Typed.js" />
 </p>
-
 ---
-
 В данном примере использовал супер-героев из известного комикса MARVEL, чтобы
 сделать более наглядно и креативно, естествено в JSON или со стороны сервера вы можете принимать всё что угодно.<br>
 <p align="left">
     <img src="app/custom_dropdown.gif" width="450px" title="example" />
 </p>
 <br>
-
 ---
 ## Установка
-
 Полная установка для стабильной работы.
 
 ### 1. Клонировать репозторий:
@@ -35,34 +30,34 @@
 +-- bower_components
 +--
     \
-    |   +-- angular
-    |   +-- angular-animate
-    |   +-- angular-cookies
-    |   +-- angular-mocks
-    |   +-- bootstrap
-    |   +-- bootstrap
-    |   +-- jquery
+    |   +--  angular
+    |   +--  angular-animate
+    |   +--  angular-cookies
+    |   +--  angular-mocks
+    |   +--  bootstrap
+    |   +--  jquery
 ~~~
-
 ### 3. Установить GruntJS:
 `$ npm install -g grunt`
 
+Для запуска к `npm` менеджеру нужен сам `AngularJS` и к нему `jQuery`.
+
+#
 ### После установки:
 
-Запустить локальный сервер:
+Запустить локальный сервер: <br>
 `$ grunt server`
 
-Создать уменьшенную сконвертированную версию в папку `/dist`
+Создать уменьшенную сконвертированную версию в папку `/dist` <br>
 `$ grunt build`
 
 ---
-
 ## Обратная связь
 
-* Задать вопрос на [Stack Overflow](http://stackoverflow.com/questions/tagged/vscode).
+* Задать вопрос на [Stack Overflow](http://stackoverflow.com/questions/tagged/AngularJS).
 * Мой [сайт](http://shlaikov.github.io/) с портфолио.
 * Файл ошибок [GitHub Issues](https://github.com/shlaikov/custom_dropdown/issues).
-* Подпишись в [Twiter](https://twitter.com/Shlaikov_Alexey).
+* Подпишись в [Twitter](https://twitter.com/Shlaikov_Alexey).
 * Подписывайтесь в [Instagram](https://www.instagram.com/alexey_shlaikov), ставьте лайки.
 
 ### Другое:
@@ -72,4 +67,4 @@
 - [JSON](http://www.json.org/)
 
 ## Лицензия
-[MIT](LICENSE.txt)
+[MIT](LICENSE)
