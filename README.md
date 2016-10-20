@@ -21,7 +21,7 @@
 <br>
 
 ### Пример использования элемента:
-~~~
+~~~html
 <dropdown list="heroesData" selected="hero">
     <div class="dropdown-container" ng-class="{ show: listVisible }">
         <div class="dropdown-display" ng-click="show();" ng-class="{ clicked: listVisible }">
