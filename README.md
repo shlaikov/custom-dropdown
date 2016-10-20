@@ -89,6 +89,8 @@
 * Подпишись в [Twitter](https://twitter.com/Shlaikov_Alexey).
 * Подписывайтесь в [Instagram](https://www.instagram.com/alexey_shlaikov), ставьте лайки.
 
+> Приветсвуются контрибьюторы и форки для улучшения репозитория.
+
 ### Другое:
 - [AngularJS](https://angularjs.org/)
 - [jQuery](http://jquery.com/)
