@@ -28,13 +28,16 @@ app.controller("dropdownCtrl", function($scope, $http) {
    };
 
    $scope.show = function() {
+        //rotate fa-angle-down
         angleDown.style.transform = "rotate(180deg)";
+
         $scope.listVisible = true;
    };
 
    $scope.$on("documentClicked", function(inner, target) {
       if (!$(target[0]).is(".dropdown-display.clicked") && !$(target[0]).parents(".dropdown-display.clicked").length > 0) {
          $scope.$apply(function() {
+            // setDefault
             angleDown.style.transform = "rotate(0deg)";
             $scope.listVisible = false;
          });
