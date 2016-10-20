@@ -1,0 +1,52 @@
+{
+  "heroes": [
+    {
+      "Name": "Spider-Man",
+      "Alterego": "Peter Parker",
+      "Type": "Human Mutant",
+      "Image": "img/spiderman.png"
+    },
+    {
+      "Name": "Iron-Man",
+      "Alterego": "Tony Stark",
+      "Type": "Human",
+      "Image": "img/ironman.png"
+    },
+    {
+      "Name": "Wolverine",
+      "Alterego": "James Howlett",
+      "Type": "Human Mutant",
+      "Image": "img/wolverine.png"
+    },
+    {
+      "Name": "Thor",
+      "Alterego": "Thor Odinson",
+      "Type": "Asgardian",
+      "Image": "img/thor.png"
+    },
+    {
+      "Name": "Deadpool",
+      "Alterego": "Wade Wilson",
+      "Type": "Human Mutant",
+      "Image": "img/deadpool.png"
+    },
+    {
+      "Name": "Captain America",
+      "Alterego": "Steve Rogers",
+      "Type": "Human Mutant",
+      "Image": "img/america.png"
+    },
+    {
+      "Name": "Ant-Man",
+      "Alterego": "Hank Pym",
+      "Type": "Human",
+      "Image": "img/antman.png"
+    },
+    {
+      "Name": "Magneto ",
+      "Alterego": "Max Eisenhardt",
+      "Type": "Human Mutant",
+      "Image": "img/magneto.png"
+    }
+  ]
+}
