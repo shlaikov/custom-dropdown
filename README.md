@@ -2,7 +2,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/139426?v=3&s=400" width="100px" title="AngularJS"/>
 <img src="https://bower.io/img/bower-logo.svg" width="100px" title="Bower"/>
-<img src="http://gruntjs.com/img/grunt-logo.png" width="70px" title="Grunt"/>
+<img src="http://gruntjs.com/img/grunt-logo.svg" width="70px" title="Grunt"/>
 
 
 
